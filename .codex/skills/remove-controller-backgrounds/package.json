@@ -1,0 +1,12 @@
+{
+  "name": "remove-controller-backgrounds-skill",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@10.14.0",
+  "scripts": {
+    "workflow": "node scripts/workflow.mjs"
+  },
+  "dependencies": {
+    "sharp": "0.34.3"
+  }
+}

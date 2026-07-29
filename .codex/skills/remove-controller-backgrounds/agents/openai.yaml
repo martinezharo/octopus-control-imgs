@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remove Controller Backgrounds"
+  short_description: "Create compressed white-background controller photos"
+  default_prompt: "Use $remove-controller-backgrounds to process the next safe batch of controller photos."
